@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm HADDAD Chahinez</h1>
 <h3 align="center">A passionate full-stack AI developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chahinez-hdd" alt="chahinez-hdd" /></a> </p>
-
 - 🌱 I’m currently learning **AI(ML and LLMs) and Front/Back -end developpement**
 
 - 📫 How to reach me **chahinez.haddad2005@gmail.com**
